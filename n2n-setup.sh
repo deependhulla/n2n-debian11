@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-apt-get install build-essential autogen autoconf vim screen iptraf-ng etthool net-tools
+apt-get install build-essential autogen autoconf vim screen iptraf-ng ethtool net-tools
 
 cd /opt/ ;
 git clone https://github.com/ntop/n2n
